@@ -1,0 +1,33 @@
+* html img {
+	vertical-align: top;
+}
+
+#wrapper {
+	position:relative;
+	text-align:center !important;
+}
+
+#container {
+	position:relative;
+	width:960px;
+	background: url("../img/shared/body_bg.jpg") repeat top;
+	margin: 0 auto;
+	margin-top:5px;
+}
+
+#cont_top {
+	padding:20px 10px 0px 10px;
+}
+
+#cont_info {
+	width:100%;
+}
+
+#cont_left {
+	line-height:50px;
+	padding:15px 10px 10px 80px;
+}
+
+#cont_right {
+	padding:10px;
+}
